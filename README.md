@@ -1,2 +1,2 @@
 # MOTA
-Multiple Online Transformer based Agents
+Multipurpose Online Transformer based Agents
